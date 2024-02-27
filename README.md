@@ -3,6 +3,8 @@
 </div>
 <div align="center">
 
+Github of instructions- https://docs.circom.io/more-circuits/more-basic-circuits/
+
 [![Chat on Telegram][ico-telegram]][link-telegram]
 [![Website][ico-website]][link-website]
 ![GitHub top language](https://img.shields.io/github/languages/top/iden3/circom)
